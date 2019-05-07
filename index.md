@@ -17,7 +17,7 @@ _We’re a group of volunteers with the Tech Workers Coalition and the National 
 
 ## What’s changing for California workers?
 
-Many drivers working for Uber and Lyft report earning only a few dollars per hour and working more than 40 hours per week [1, 2]. This is typical for workers who get classified as independent contractors and aren’t protected by labor law. But in 2018, delivery drivers at Dynamex Operations West filed a lawsuit for better working conditions that went all the way to the California Supreme Court. The _Dynamex_ decision ruled that independent contractors whose work is central to a business are now classified as employees for the purpose of minimum wage and overtime pay [3].
+Many drivers working for Uber and Lyft report earning only a [few dollars per hour](https://www.theguardian.com/us-news/2019/mar/22/uber-lyft-ipo-drivers-unionize-low-pay-expenses) and working [more than 40 hours per week](https://ktla.com/2019/03/23/facing-pay-cuts-some-uber-and-lyft-drivers-prepare-to-strike-monday/). This is typical for workers who get classified as independent contractors and aren’t protected by labor law. But in 2018, delivery drivers at Dynamex Operations West filed a lawsuit for better working conditions that went all the way to the California Supreme Court. The _Dynamex_ decision ruled that independent contractors whose work is central to a business are now [classified as employees](https://www.sfchronicle.com/business/article/California-to-thrash-out-gig-worker-status-in-13585979.php) for the purpose of minimum wage and overtime pay.
 
 Now, workers in California---especially rideshare drivers---can file claims to get back lost wages, even if they no longer work for these companies. 
 
