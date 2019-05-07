@@ -1,0 +1,61 @@
+#masthead {
+    background-image: url('background.jpg');
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 300px;
+    background-size: 100%;
+    background-position: bottom;
+}
+
+#menu {
+    background: black;
+}
+
+#menu h1 {
+    color: white;
+    text-transform: uppercase;
+    bottom: 0;
+    text-align: center;
+    font-size: 2.5em;
+    padding: 20px 10px;
+    font-weight: 400;
+}
+
+#content .lead {
+    font-weight: normal;
+    font-size: 1.8em;
+    line-height: 1.8em;
+    padding: 50px;
+}
+
+#footer {
+    padding: 20px 0;
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1200px) {
+    #masthead {
+        height: 320px;
+    }
+    #menu h1 {
+        font-size: 2.0em;
+    }
+    #content .lead {
+        padding: 40px 0px;
+        font-size: 1.7em;
+    }
+}
+
+
+@media only screen and (max-width: 767px) {
+    #masthead {
+        height: 200px;
+        background-size: 200%;
+    }
+    #menu h1 {
+        font-size: 1.5em;
+    }
+    #content .lead {
+        padding: 20px 0px;
+        font-size: 1.5em;
+    }
+}
