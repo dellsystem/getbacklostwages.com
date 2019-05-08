@@ -22,7 +22,7 @@
 
 #masthead h1 {
   /* background: #000; */
-  background: #85328c;
+  background: #d36565;
   font-size: 4rem;
   font-family: 'fjalla one',-apple-system,BlinkMacSystemFont,avenir next,avenir,helvetica neue,helvetica,ubuntu,roboto,noto,segoe ui,arial,sans-serif;
   font-weight: normal;
@@ -52,7 +52,7 @@ body p {
 }
 
 a {
-  color: #85328c;
+  color: #d36565;
 }
 
 #footer p {
