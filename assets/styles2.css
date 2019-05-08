@@ -68,6 +68,10 @@ a {
   align-self: center;
 }
 
+h2:first-child {
+  margin-top: 0
+}
+
 h2.normal {
   font-weight: normal;
 }
