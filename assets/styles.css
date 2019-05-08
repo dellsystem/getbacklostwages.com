@@ -1,13 +1,31 @@
 #masthead {
-    /* background-image: url('background.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: bottom; */
-  background: #85328c;
+  background-image: url('background.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+  background-color: #0b0b0b;
 }
 
+@font-face {
+  font-family: 'Fjalla One';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Fjalla One Regular '),
+    local('Fjalla One-Regular'),
+    url('/assets/fjalla-one-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('/assets/fjalla-one-latin-400.woff') format('woff'); /* Modern Browsers */
+}
+
+
+
 #masthead h1 {
-  background: #000;
+  /* background: #000; */
+  background: #85328c;
+  font-size: 4rem;
+  font-family: 'fjalla one',-apple-system,BlinkMacSystemFont,avenir next,avenir,helvetica neue,helvetica,ubuntu,roboto,noto,segoe ui,arial,sans-serif;
+  font-weight: normal;
 }
 
 body {
@@ -15,12 +33,12 @@ body {
 }
 
 h2 {
-  font-size: 1.75rem;
+  font-size: 2rem;
   line-height: 2.25rem;
 }
 
 h3 {
-  font-size: 1.5rem;
+  font-size: 1.75rem;
 }
 
 .lead {
@@ -57,6 +75,9 @@ a {
 }
 
 @media screen and (min-width: 30em) {
+  #masthead h1 {
+    font-size: 6rem;
+  }
   .lead {
     font-size: 1.8em;
     line-height: 1.8em;
