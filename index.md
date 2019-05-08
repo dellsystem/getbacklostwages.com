@@ -5,19 +5,20 @@ layout: default
 
 {% include lead.html %}
 
-Under the 2018 “Dynamex” California Supreme Court ruling, you might be eligible to get lost minimum wage and overtime pay if you’ve ever worked in California as an independent contractor for any rideshare, delivery, or other gig economy company.
+Under the 2018 _Dynamex_ California Supreme Court ruling, you might be eligible to get lost minimum wage and overtime pay if you’ve ever worked in California as an independent contractor for any rideshare, delivery, or other gig economy company.
 
-_We’re a group of volunteers with the Tech Workers Coalition and the National Employment Law Project who believe all workers ought to get compensated fairly for their labor. For help or press inquiries, email <getbacklostwages@protonmail.com> or tweet [@GetWages](https://twitter.com/GetWages)._
+<h2 class="normal">
+Do you use rideshare or delivery services? <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fgetbacklostwages.com&text=Rideshare%20drivers%20and%20other%20independent%20contractors%20in%20California%20may%20be%20eligible%20for%20minimum%20wage%20and%20overtime%20pay%20-%20retroactively.%20Follow%20@GetWages%20or%20visit%20getbacklostwages.com%20to%20learn%20more">Tweet about @GetWages</a> and <a href="/assets/flyer.pdf">print a flyer to give to riders and drivers</a>.</h2>
 
-## Do you use rideshare or delivery services? [Tweet about getbacklostwages.com](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgetbacklostwages.com&text=Rideshare%20drivers%20and%20other%20independent%20contractors%20in%20California%20may%20be%20eligible%20for%20minimum%20wage%20and%20overtime%20pay%20-%20retroactively.%20Follow%20@GetWages%20or%20visit%20getbacklostwages.com%20to%20learn%20more) and [print a flyer to give to riders and drivers](/assets/flyer.pdf).
+We’re a group of volunteers with the Tech Workers Coalition and the National Employment Law Project who believe all workers ought to get compensated fairly for their labor. We’re focusing our initial efforts in support of drivers, but this wage claim process is open to _all_ gig workers. Take action above, and learn more below.
 
 ---
 
-## What does Dynamex mean for California gig workers?
+## What does _Dynamex_ mean for California gig workers?
 
 Many drivers working for Uber and Lyft report earning only a [few dollars per hour](https://www.theguardian.com/us-news/2019/mar/22/uber-lyft-ipo-drivers-unionize-low-pay-expenses) and working [more than 40 hours per week](https://ktla.com/2019/03/23/facing-pay-cuts-some-uber-and-lyft-drivers-prepare-to-strike-monday/). This is typical for workers who get (mis)classified as independent contractors and aren’t protected by labor law. But in 2018, delivery drivers at Dynamex Operations West filed a lawsuit for better working conditions that went all the way to the California Supreme Court.
 
-The _Dynamex_ decision ruled that workers whose work is central to a business are now likely [classified as employees](https://www.sfchronicle.com/business/article/California-to-thrash-out-gig-worker-status-in-13585979.php) for the purpose of minimum wage and overtime pay.
+__The _Dynamex_ decision ruled that workers whose work is central to a business are now likely [classified as employees](https://www.sfchronicle.com/business/article/California-to-thrash-out-gig-worker-status-in-13585979.php) for the purpose of minimum wage and overtime pay.__
 
 Workers in California can file claims to get back lost wages, even if they no longer work for these companies.
 
@@ -51,7 +52,7 @@ There are three main ways to file a wage claim:
 
 If you want to talk with a legal professional in-person, our allies at the Legal Aid at Work serve low-income individuals (for free) with confidential information, in English, Spanish, Cantonese, Mandarin, and other languages. Find the nearest location, hours, and contact info [here](https://legalaidatwork.org/clinics-and-helplines/).
 
-If you cannot visit a clinic in-person, call Legal Aid at Work directly to set up an appointment to discuss how to file a wage or arbitration claim: 415-864-8848
+To discuss how to file a wage or arbitration claim, we recommend reaching out to Legal Aid at Work for San Francisco and East Bay at (415) 864-8848, and the Katherine & George Alexander Community Law Center for South Bay at (408) 288-7030.
 
 ### 3. File a wage claim yourself
 

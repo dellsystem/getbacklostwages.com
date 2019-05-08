@@ -60,18 +60,12 @@ a {
   line-height: 1.5rem;
 }
 
-#footer .links {
-  text-align: center;
-}
-
-#footer a.br-pill {
-  margin-right: 0.25rem;
-  font-size: 1rem;
-  background: #85328c;
-}
-
 #icons {
   align-self: center;
+}
+
+h2.normal {
+  font-weight: normal;
 }
 
 @media screen and (min-width: 30em) {
