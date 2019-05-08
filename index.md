@@ -59,3 +59,5 @@ To discuss how to file a wage or arbitration claim, we recommend reaching out to
 ### 3. File a wage claim yourself
 
 If you are certain you have opted-out of mandatory arbitration, you can try to file a claim directly through the California Labor Commissioner's Office website. Learn more about the process and requirements [here](https://www.dir.ca.gov/dlse/HowToFileWageClaim.htm), and submit a claim form [here](https://www.dir.ca.gov/dlse/Wage_Claim_forms.html).
+
+The text on this website does not constitute legal advice.

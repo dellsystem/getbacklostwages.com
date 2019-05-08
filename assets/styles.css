@@ -1,5 +1,5 @@
 #masthead {
-  background-image: url('background.jpg');
+  background-image: url('background2.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: bottom;
@@ -76,6 +76,40 @@ h2.normal {
   max-width: 640px;
 }
 
+.stickers {
+  margin-top: 2em;
+  font-weight: bold;
+}
+
+.stickers p {
+  margin-top: 0;
+}
+
+.stickers img {
+  width: 350px;
+  max-width: 100%;
+}
+
+ul.links {
+  list-style: none;
+  padding: 0;
+  margin-bottom: 0;
+}
+
+ul.links li {
+  display: inline-block;
+  padding: 0 8px 0 5px;
+  border-right: 1px solid #aaa;
+}
+
+ul.links li:first-child {
+  padding-left: 0;
+}
+
+ul.links li:last-child {
+  border: none;
+}
+
 @media screen and (min-width: 30em) {
   #masthead h1 {
     font-size: 6rem;
@@ -89,5 +123,11 @@ h2.normal {
   }
   #footer .links {
     text-align: left;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  ul.links {
+    font-size: 0.9rem;
   }
 }
