@@ -72,6 +72,10 @@ h2.normal {
   font-weight: normal;
 }
 
+#google-form {
+  max-width: 640px;
+}
+
 @media screen and (min-width: 30em) {
   #masthead h1 {
     font-size: 6rem;

@@ -46,6 +46,8 @@ Another risk is filing a claim incorrectly or losing time with tedious, confusin
 
 There are three main ways to file a wage claim:
 
+### 1. Get free assistance from a legal professional
+
 {% include form.html %}
 
 ### 2. Visit a legal aid clinic
