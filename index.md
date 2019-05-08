@@ -3,15 +3,13 @@ title: Get Back Lost Wages
 layout: default
 ---
 
-{% include icons.html %}
-
 {% include lead.html %}
 
 Under the 2018 “Dynamex” California Supreme Court ruling, you might be eligible to get lost minimum wage and overtime pay if you’ve ever worked in California as an independent contractor for any rideshare, delivery, or other gig economy company.
 
 _We’re a group of volunteers with the Tech Workers Coalition and the National Employment Law Project who believe all workers ought to get compensated fairly for their labor. For help or press inquiries, email <getbacklostwages@protonmail.com> or tweet [@GetWages](https://twitter.com/GetWages)._
 
-## Do you use rideshare or delivery services? [Tweet about getbacklostwages.com](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgetbacklostwages.com&text=Rideshare%20drivers%20and%20other%20independent%20contractors%20in%20California%20may%20be%20eligible%20for%20minimum%20wage%20and%20overtime%20pay%20-%20retroactively.%20Follow%20@GetWages%20or%20visit%20getbacklostwages.com%20to%20learn%20more) and [print a flyer to give to riders and drivers](http://google.com).
+## Do you use rideshare or delivery services? [Tweet about getbacklostwages.com](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgetbacklostwages.com&text=Rideshare%20drivers%20and%20other%20independent%20contractors%20in%20California%20may%20be%20eligible%20for%20minimum%20wage%20and%20overtime%20pay%20-%20retroactively.%20Follow%20@GetWages%20or%20visit%20getbacklostwages.com%20to%20learn%20more) and [print a flyer to give to riders and drivers](/assets/flyer.pdf).
 
 ---
 
