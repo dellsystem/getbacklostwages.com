@@ -33,7 +33,7 @@ body {
 }
 
 h2 {
-  font-size: 2rem;
+  font-size: 1.8rem;
   line-height: 2.25rem;
 }
 
@@ -60,6 +60,10 @@ a {
   line-height: 1.5rem;
 }
 
+#footer .links a {
+  font-weight: bold;
+}
+
 #icons {
   align-self: center;
 }
@@ -72,9 +76,9 @@ h2.normal {
   #masthead h1 {
     font-size: 6rem;
   }
-  .lead {
-    font-size: 1.8em;
-    line-height: 1.8em;
+  h2 {
+    font-size: 2rem;
+    line-height: 2.5rem;
   }
   body p {
     font-size: 1.5rem;
