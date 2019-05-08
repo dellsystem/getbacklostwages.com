@@ -6,9 +6,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
     <title>Get Back Lost Wages</title>
     <meta name="description" content="A project to help misclassified independent contractors in California file wage claims." />
+    <!--
     <link rel="stylesheet" type="text/css" class="ui" href="/assets/semantic.min.css?1">
+    -->
     <link rel="stylesheet" type="text/css" class="ui" href="/assets/styles.css">
+    <!--
     <link href="https://fonts.googleapis.com/css?family=Cabin|Source+Serif+Pro" rel="stylesheet" type="text/css">
+    -->
+    <link rel="stylesheet" href="/assets/tachyons.min.css">
     <meta property="og:title" content="Get Back Lost Wages">
     <meta property="og:description" content="Rideshare drivers and other potentially misclassified independent contractors in California can now file wage claims against their company.">
     <meta property="og:image" content="https://getbacklostwages.com/assets/splash.png?1">
@@ -17,22 +22,30 @@
     <meta property="og:site_name" content="Get Back Lost Wages" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="GetWages" />
+    <link rel="icon" type="image/png" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAklEQVR4AewaftIAAAALSURBVGNoNer5DwAExgJD1or0GQAAAABJRU5ErkJggg==">
 </head>
 <body>
     <!-- Photo by Dan Gold on Unsplash -->
-    <div id="masthead">
-    </div>
-    <div id="menu">
-        <div class="ui container">
-            <h1>Get Back Lost Wages</h1>
+    <article class="mb5">
+      <header class="sans-serif" id="masthead">
+        <div class="mw8-ns center pv4-ns pv2">
+          <h1 class="f-headline-ns lh white pa3 ttu tc">
+            Get Back Lost Wages
+          </h1>
         </div>
-    </div>
-    <div id="content">
-        <div class="ui container">
-            {{ content }}
+      </header>
+      <div class="pa4-ns pa3 pb0 mw8-ns center">
+        <div class="flex justify-center">
+          <img src="assets/icons.png" id="icons" />
         </div>
-    </div>
-    <div class="ui divider"></div>
-    {% include footer.html %}
+      </div>
+      <div class="pa4-ns pa3 sans-serif mw8-ns center">
+        {{ content }}
+      </div>
+      <div class="pa4-ns pa3 sans-serif mw8-ns center">
+        <hr/>
+        {% include footer.html %}
+      </div>
+    </article>
 </body>
 </html>

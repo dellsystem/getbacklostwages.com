@@ -1,61 +1,133 @@
 #masthead {
-    background-image: url('background.jpg');
-    background-repeat: no-repeat;
-    width: 100%;
-    height: 300px;
-    background-size: 100%;
-    background-position: bottom;
+  background-image: url('background2.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+  background-color: #0b0b0b;
 }
 
-#menu {
-    background: black;
-}
-
-#menu h1 {
-    color: white;
-    text-transform: uppercase;
-    bottom: 0;
-    text-align: center;
-    font-size: 2.5em;
-    padding: 20px 10px;
-    font-weight: 400;
-}
-
-#content .lead {
-    font-weight: normal;
-    font-size: 1.8em;
-    line-height: 1.8em;
-    padding: 50px;
-}
-
-#footer {
-    padding: 20px 0;
-}
-
-@media only screen and (min-width: 768px) and (max-width: 1200px) {
-    #masthead {
-        height: 320px;
-    }
-    #menu h1 {
-        font-size: 2.0em;
-    }
-    #content .lead {
-        padding: 40px 0px;
-        font-size: 1.7em;
-    }
+@font-face {
+  font-family: 'Fjalla One';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src:
+    local('Fjalla One Regular '),
+    local('Fjalla One-Regular'),
+    url('/assets/fjalla-one-latin-400.woff2') format('woff2'), /* Super Modern Browsers */
+    url('/assets/fjalla-one-latin-400.woff') format('woff'); /* Modern Browsers */
 }
 
 
-@media only screen and (max-width: 767px) {
-    #masthead {
-        height: 200px;
-        background-size: 200%;
-    }
-    #menu h1 {
-        font-size: 1.5em;
-    }
-    #content .lead {
-        padding: 20px 0px;
-        font-size: 1.5em;
-    }
+
+#masthead h1 {
+  /* background: #000; */
+  background: #85328c;
+  font-size: 4rem;
+  font-family: 'fjalla one',-apple-system,BlinkMacSystemFont,avenir next,avenir,helvetica neue,helvetica,ubuntu,roboto,noto,segoe ui,arial,sans-serif;
+  font-weight: normal;
+}
+
+body {
+  font-family: -apple-system,BlinkMacSystemFont,avenir next,avenir,helvetica neue,helvetica,ubuntu,roboto,noto,segoe ui,arial,sans-serif;
+}
+
+h2 {
+  font-size: 1.8rem;
+  line-height: 2.25rem;
+}
+
+h3 {
+  font-size: 1.75rem;
+}
+
+.lead {
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+
+body p {
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+a {
+  color: #85328c;
+}
+
+#footer p {
+  font-size: 1rem;
+  line-height: 1.5rem;
+}
+
+#footer .links a {
+  font-weight: bold;
+}
+
+#icons {
+  align-self: center;
+}
+
+h2.normal {
+  font-weight: normal;
+}
+
+#google-form {
+  max-width: 640px;
+}
+
+.stickers {
+  margin-top: 2em;
+  font-weight: bold;
+}
+
+.stickers p {
+  margin-top: 0;
+}
+
+.stickers img {
+  width: 350px;
+  max-width: 100%;
+}
+
+ul.links {
+  list-style: none;
+  padding: 0;
+  margin-bottom: 0;
+}
+
+ul.links li {
+  display: inline-block;
+  padding: 0 8px 0 5px;
+  border-right: 1px solid #aaa;
+}
+
+ul.links li:first-child {
+  padding-left: 0;
+}
+
+ul.links li:last-child {
+  border: none;
+}
+
+@media screen and (min-width: 30em) {
+  #masthead h1 {
+    font-size: 6rem;
+  }
+  h2 {
+    font-size: 2rem;
+    line-height: 2.5rem;
+  }
+  body p {
+    font-size: 1.5rem;
+  }
+  #footer .links {
+    text-align: left;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  ul.links {
+    font-size: 0.9rem;
+  }
 }
