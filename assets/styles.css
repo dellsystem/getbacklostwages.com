@@ -23,7 +23,7 @@
 #masthead h1 {
   /* background: #000; */
   background: #d36565;
-  font-size: 4rem;
+  font-size: 3rem;
   /* font-family: 'fjalla one',-apple-system,BlinkMacSystemFont,avenir next,avenir,helvetica neue,helvetica,ubuntu,roboto,noto,segoe ui,arial,sans-serif;
   font-weight: normal;
   */
@@ -131,14 +131,14 @@ ul.links li:last-child {
 
 @media screen and (min-width: 30em) {
   #masthead h1 {
-    font-size: 6rem;
+    font-size: 4rem;
   }
   h2 {
-    font-size: 2rem;
+    font-size: 1.8rem;
     line-height: 2.5rem;
   }
   body p {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
   }
   #footer .links {
     text-align: left;
